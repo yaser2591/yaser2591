@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Yaser+Tavakoli+;I+am+a+Python+developer+and+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Yaser+Tavakoli+;I+am+Python+developer+and+programmer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Yaser Tavakoli</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
