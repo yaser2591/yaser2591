@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Yaser+Tavakoli+;I+am+Python+developer+and+programmer;Training+to+get+better+at+python)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Yaser Tavakoli</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Yaser+Tavakoli+;This+is+my+practice+page+;+please+visit+my+original+Account+;MY+original+accunt+yaser25+)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Yaser Tavakoli this is my practice page , please visit my original Accunt,yaser25,</h1>
+<h3 align="center">This is my original accunt ---> (yaser25)</h3>
+<h1 align="center">yaser25</h1>
+<h1 align="center">اکانت اصلی من yaser25 هست</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser2591&label=Profile%20views&color=0e75b6&style=flat" alt="yaser2591" /> </p>
 
@@ -8,7 +12,7 @@
 
 - 🔭 I’m currently working on [CS50](CS50)
 
-- 💬 Ask me about **python**
+  ### 💬 this is my original accunt (yaser25)
 
 - 📫 How to reach me **yaser313894@gmail.com**
 
